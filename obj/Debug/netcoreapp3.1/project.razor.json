@@ -20521,6 +20521,11 @@
   "RootNamespace": "MyApp2",
   "Documents": [
     {
+      "FilePath": "/home/dllanos/Clase01/MyApp2/Views/Product/Index.cshtml",
+      "TargetPath": "Views\\Product\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/dllanos/Clase01/MyApp2/Views/Home/Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
